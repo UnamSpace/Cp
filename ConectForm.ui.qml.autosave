@@ -1,0 +1,14 @@
+import QtQuick 2.4
+
+Item {
+    width: 400
+    height: 400
+
+    Item {
+        id: element
+        x: 39
+        y: 54
+        width: 322
+        height: 293
+    }
+}
